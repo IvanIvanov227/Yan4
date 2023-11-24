@@ -1,3 +1,26 @@
 Сравнивая ветки demo и master, я смотрел на файл human.txt (он один и тот же в обеих ветках).
 Данные ветки различаются только статусом (master - это главная ветка программы), а также количеством коммитов.
 Также я заметил, что ветка main содержит все те ветки, из которых состоит ветка demo.
+
+master
+    Commits on Nov 24, 2023
+    Добавил файл hometask.txt
+    Merge branch 'boots_buttons'
+    Merge branch 'hat'
+
+    Commits on Nov 22, 2023
+    Merge branch 'buttons' into boots_buttons
+    Merge branch 'boots' into boots_buttons
+
+    Commits on Jun 29, 2016
+    fix readme
+    dots
+    README added
+    boots
+    heat added
+    init
+
+boots_buttons
+    Commits on Nov 22, 2023
+    Merge branch 'buttons' into boots_buttons
+    Merge branch 'boots' into boots_buttons
